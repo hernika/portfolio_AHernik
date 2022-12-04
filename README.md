@@ -18,9 +18,11 @@
 - XAMPP
 - Slack
 - Postman
+- Wordpress
 
 ## My projects 👩‍💻
 - Test cases https://docs.google.com/document/d/1wDDg-fQlvjPodV73Y08fFO8t7FiN6_Oyw_HO131Oi9o/edit
 - Bugs https://docs.google.com/document/d/1FK2TEWrLuFr02J29zVT9VTaJZT6U-PLqpZ49fWRbUhU/edit
 - Test summary report https://docs.google.com/document/d/1FtpaKDCT8lcfIy15LBsUnrQXhXCnebKLcTzYDOxt9n8/edit
 - SQL https://github.com/hernika/SQL/blob/main/README.md
+- Wordpress web page  https://palacyktyrolski.pl/
