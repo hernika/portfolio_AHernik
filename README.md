@@ -27,3 +27,8 @@
 - Test summary report https://docs.google.com/document/d/1FtpaKDCT8lcfIy15LBsUnrQXhXCnebKLcTzYDOxt9n8/edit
 - SQL https://github.com/hernika/SQL/blob/main/README.md
 - WordPress web page  https://palacyktyrolski.pl/
+
+## Languages
+- Polish - native
+- English - advanced
+- Spanish - elementary
