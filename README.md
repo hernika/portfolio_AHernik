@@ -5,7 +5,7 @@ When I started digging into testing topic, firstly I completed basic software te
 
 ## Experience 💼
 
-I'm working as a Clinical Data Coordinator in a clinical trials area. I participated in Set-Up phase when the special environment for study team is built. I created edit checks, wrote test cases and executed tests. I also was responsible for performing UAT for data validation listings, protocol deviation listings. I collaboratively worked with the programming team to see issues found through re-testing and resolution both during initial database set up and for migration. In addition to that, I'm part of international study team, which gave me a chance to practice english in a daily basis.
+I'm working as a Clinical Data Coordinator in a clinical trials area. I participated in Set-Up phase when the special environment for the study team is built. I created edit checks, wrote test cases and executed tests. I also was responsible for performing UAT for data validation listings, protocol deviation listings. I collaboratively worked with the programming team to see issues found through re-testing and resolution both during initial database set up and for migration. In addition to that, I'm part of international study team, which gave me a chance to practice english on a daily basis.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandra-hernik-3403311aa/)
 
