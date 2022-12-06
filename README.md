@@ -33,7 +33,7 @@ I'm working as a Clinical Data Coordinator in a clinical trials area. I particip
 - SQL https://github.com/hernika/SQL/blob/main/README.md
 - WordPress web page  https://palacyktyrolski.pl/
 
-## Languages
+## Languages 🗣
 - Polish - native
 - English - advanced
 - Spanish - elementary
