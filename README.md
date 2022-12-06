@@ -11,9 +11,12 @@ I'm working as a Clinical Data Coordinator in a clinical trials area. I particip
 
 ## Courses 📚
 - Praktyczny kurs testowania oprogramowania [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
-- SQL w 120 minut | https://www.kursysql.pl/
-- QA Challenge | Dare IT 
 - New Technologies: graphics, infographics, animation | Inkubator UW
+- SQL w 120 minut | kursysql.pl
+- Git w pigułce | cantest.it
+- QA Challenge | Dare IT 
+
+
 ## Tools ⚒
 - GitHub
 - Jira
