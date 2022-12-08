@@ -28,6 +28,7 @@ I'm working as a Clinical Data Coordinator in a clinical trials area. I particip
 - WordPress
 
 ## My projects 👩‍💻
+- Dare IT Challenge Portfolio https://github.com/hernika/challenge_portfolio_ola
 - Test cases https://docs.google.com/document/d/1wDDg-fQlvjPodV73Y08fFO8t7FiN6_Oyw_HO131Oi9o/edit
 - Bugs https://docs.google.com/document/d/1FK2TEWrLuFr02J29zVT9VTaJZT6U-PLqpZ49fWRbUhU/edit
 - Test summary report https://docs.google.com/document/d/1FtpaKDCT8lcfIy15LBsUnrQXhXCnebKLcTzYDOxt9n8/edit
