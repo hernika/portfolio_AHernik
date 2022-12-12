@@ -20,6 +20,7 @@ I'm working as a Clinical Data Coordinator in a clinical trials area. I particip
 ## Tools ⚒
 - GitHub
 - Git
+- mySQL
 - Jira
 - Devtools
 - Slack
