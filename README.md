@@ -27,6 +27,14 @@ I'm working as a Clinical Data Coordinator in a clinical trials area. I particip
 - Postman
 - WordPress
 
+## Tech&Soft skills 👩🏼‍🎓
+- writing test cases
+- reporting bugs
+- SCRUM
+- working in a team
+- working on multiple projects
+- good time management skills
+
 ## My projects 👩‍💻
 - Dare IT Challenge Portfolio<br> https://github.com/hernika/challenge_portfolio_ola
 - Test cases<br> https://docs.google.com/document/d/1wDDg-fQlvjPodV73Y08fFO8t7FiN6_Oyw_HO131Oi9o/edit
