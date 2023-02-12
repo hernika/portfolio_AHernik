@@ -1,7 +1,7 @@
 # Portfolio
 ## About me 🙋‍♀️
 My name is Aleksandra Hernik. Recently, I've started broadening my IT knowledge in order to become a Software Tester. During the work in Data Management area I've noticed that tasks which interested me the most are the ones connected to testing activities. It is only a part of my resposibilities now and I would like to spend more time on such activities. I discovered that a career path as a Software Tester is something that could suit me the most. Working in Data Management in the international, pharmaceutical companies gave me an opportunity to gain the skills that are crucial for the role of a Tester. I pay attention to detail and can successfully manage multiple tasks under limited-time. <br>
-When I started digging into testing topic, firstly I completed basic software tesing course and I only made sure that this is something that I'm interested in. After that I joined a QA Challenge organised by Dare IT. During this course I had a chance to perform weekly tasks that made up a final project. Each stage was based on materials and feedback received from experts. Now I'm looking for a position to become a Junior Tester.
+When I started digging into testing topic, firstly I completed basic software tesing course and I only made sure that this is something that I'm interested in. After that I joined a QA Challenge organised by Dare IT. During this course I had a chance to perform weekly tasks that made up a final project. Each stage was based on materials and feedback received from experts. Now I'm looking for a position to become a Tester.
 
 ## Experience 💼
 
